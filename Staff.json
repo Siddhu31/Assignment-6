@@ -1,0 +1,39 @@
+{
+   "Employee Details": [
+      {
+         "Name": "Siddhu",
+         "DOB": "17/4/1993",
+         "Height": 5.11,
+         "City": "Guntur",
+         "State": "Andhra Pradesh"
+      },
+      {
+         "Name": "Chandu",
+         "DOB": "4/4/1997",
+         "Height": 5.8,
+         "City": "Banglore",
+         "State": "Karnataka"
+      },
+      {
+         "Name": "Gnanesh",
+         "DOB": "21/9/1996",
+         "Height": 5.1,
+         "City": "Kuppam",
+         "State": "Tirupathi"
+      },
+      {
+         "Name": "Jogii",
+         "DOB": "11/8/2000",
+         "Height": 5.11,
+         "City": "Krishna",
+         "State": "Vijayawada"
+      },
+      {
+         "Name": "Sruthi",
+         "DOB": "19/12/1994",
+         "Height": 5.2,
+         "City": "Hyderabad",
+         "State": "Telangana"
+      }
+   ]
+}
